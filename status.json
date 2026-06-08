@@ -1,6 +1,8 @@
 {
   "enabled": true,
   "min_version": "1.0.0",
-  "allowed": [],
+  "allowed": [
+    "310413c6e45adf2d50bff424753e3fcd"
+  ],
   "message": ""
 }
