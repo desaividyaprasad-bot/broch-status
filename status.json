@@ -2,7 +2,9 @@
   "enabled": true,
   "min_version": "1.0.0",
   "allowed": [
-    "310413c6e45adf2d50bff424753e3fcd"
+    "310413c6e45adf2d50bff424753e3fcd",
+    "3b13759fc48320f8d801119589450ffd",
+    "db7df222d73e3d15295b300edcd20547"
   ],
   "message": ""
 }
